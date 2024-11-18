@@ -1,21 +1,21 @@
-# Oi, me chamo [Lucas] 👋
+# Oi, me chamo Lucas 👋
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor [Fullstack]
+💻 Eu sou um desenvolvedor Fullstack
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
 🎓 Eu estudo [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) [Curso]
 
-🎓 Sou formado em [Engenharia de Computação]([https://cubos.academy/cursos/desenvolvimento-de-software-v2](https://www.senaicimatec.com.br/)) | Outro ] @ [ [Cubos Academy](https://cubos.academy/) [Faculdade] 
+🎓 Sou formado em [Engenharia de Computação]([https://cubos.academy/cursos/desenvolvimento-de-software-v2](https://www.senaicimatec.com.br/))
 
 <!--👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual] -->
 
-🔎 Também sou curioso sobre [RPGs e Futebol]
+🔎 Também sou curioso sobre RPGs e Futebol
 
-✒️ Eu gosto de no meu tempo livre [De me exercitar e buscar notícias sobre o mundo da computação];
+✒️ Eu gosto de no meu tempo livre De me exercitar e buscar notícias sobre o mundo da computação
 
 <!--📚 Lendo: [Livro que está lendo atualmente] -->
 
