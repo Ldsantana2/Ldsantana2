@@ -8,6 +8,7 @@
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
 🎓 Eu estudo [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) [Curso]
+
 🎓 Sou formado em [Engenharia de Computação]([https://cubos.academy/cursos/desenvolvimento-de-software-v2](https://www.senaicimatec.com.br/)) | Outro ] @ [ [Cubos Academy](https://cubos.academy/) [Faculdade] 
 
 <!--👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual] -->
