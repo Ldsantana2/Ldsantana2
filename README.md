@@ -15,7 +15,7 @@
 
 🔎 Também sou curioso sobre RPGs e Futebol
 
-✒️ Eu gosto de no meu tempo livre De me exercitar e buscar notícias sobre o mundo da computação
+✒️ Eu gosto de no meu tempo livre de me exercitar e buscar notícias sobre o mundo da computação
 
 <!--📚 Lendo: [Livro que está lendo atualmente] -->
 
