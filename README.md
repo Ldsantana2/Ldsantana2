@@ -75,15 +75,3 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 <!-- <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
 <a href="https://www.linkedin.com/in/lucas-dantas-eng-computacao-dev-back-front-end" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-
-<!-- Esse template foi feito por <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨ -->
-
-<!--
-**academy-readme-template** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
-
-
