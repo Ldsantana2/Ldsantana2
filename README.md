@@ -2,12 +2,9 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Fullstack
+💻 Eu sou um Engenheiro de Software
 
-<!-- Isso é um comentário, não irá aparecer no seu perfil
-(Abaixo você seleciona o curso que você está fazendo no momento) -->
-
-🎓 Eu estudo [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
+🎓 Estou concluindo minha [Pós Graduação em Engenharia de Software]((https://descomplica.com.br/faculdade/engenharia/engenharia-de-software/))
 
 🎓 Sou formado em [Engenharia de Computação](https://www.senaicimatec.com.br)
 
