@@ -9,7 +9,7 @@
 
 🎓 Sou formado em [Engenharia de Computação]([https://www.senaicimatec.com.br](https://www.universidadesenaicimatec.edu.br/curso/engenharia-da-computacao/))
 
-👩‍💻 Atualmente eu trabalho como [Desenvolvedor de Backend] @ [[SmartNX](https://smartnx.com/)] 
+👩‍💻 Atualmente eu trabalho como Desenvolvedor de Backend na [SmartNX](https://smartnx.com/) 
 
 🔎 Também sou curioso sobre RPGs e Futebol
 
