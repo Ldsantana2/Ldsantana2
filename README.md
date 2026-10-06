@@ -18,7 +18,6 @@
 ### Eu já trabalhei com... 🔧
 
 
-**Tecnologias e Ferramentas**
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
