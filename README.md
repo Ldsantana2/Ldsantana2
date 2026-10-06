@@ -5,7 +5,7 @@
 
 💻 Eu sou um Engenheiro de Software
 
-🎓 Pós Graduado em [Pós Graduação em Engenharia de Software]((https://descomplica.com.br/faculdade/engenharia/engenharia-de-software/))
+🎓 Pós Graduado em [Engenharia de Software]((https://descomplica.com.br/faculdade/engenharia/engenharia-de-software/))
 
 🎓 Sou formado em [Engenharia de Computação]([https://www.senaicimatec.com.br](https://www.universidadesenaicimatec.edu.br/curso/engenharia-da-computacao/))
 
